@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0x6F019180C32B8521864879F25B5463C769ACe5BB",
+  "SCAN_LINK": "https://etherscan.io/address/0x6F019180C32B8521864879F25B5463C769ACe5BB",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Okay Dog Yacht Club",
+  "SYMBOL": "ODYC",
+  "MAX_SUPPLY": 5555,
+  "DISPLAY_COST": 0.004,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 10,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/okaydogyachtclub/",
+  "Telegram": "https://",
+  "Discord": "https://",
+  "Twitter": "https://twitter.com/OkayDogYC",
+  "SHOW_BACKGROUND": false
+}
