@@ -9,7 +9,7 @@
   "NFT_NAME": "Okay Dog Yacht Club",
   "SYMBOL": "ODYC",
   "MAX_SUPPLY": 5555,
-  "DISPLAY_COST": 0.004,
+  "DISPLAY_COST": 0.00,
   "GAS_LIMIT": 145000,
   "MAX_PER_TX": 10,
   "MARKETPLACE": "Opeansea",
